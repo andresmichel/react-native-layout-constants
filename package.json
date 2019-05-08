@@ -1,0 +1,23 @@
+{
+  "name": "react-native-layout-constants",
+  "version": "0.2.0",
+  "description": "React Native Layout Constants",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "layout",
+    "constants"
+  ],
+  "repository": "https://github.com/andresmichel/react-native-layout-constants",
+  "author": "Andres Michel",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-status-bar-height": "^2.3.1"
+  }
+}
