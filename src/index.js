@@ -3,7 +3,7 @@ import { getStatusBarHeight } from 'react-native-status-bar-height'
 
 const width = Dimensions.get('window').width
 const height = Dimensions.get('window').height
-const statusBarHeight = getStatusBarHeight(true)
+const statusBarHeight = getStatusBarHeight()
 
 export default {
   window: {
